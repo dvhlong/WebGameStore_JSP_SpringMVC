@@ -24,5 +24,5 @@ public class activatebean {
 	public void setStatus(int status) {
 		this.status = status;
 	}
-	
+	//git
 }
