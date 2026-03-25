@@ -37,13 +37,5 @@ Web Game Store is an online platform for purchasing and downloading digital game
 - Browse the available games and add them to your shopping cart.
 - Proceed to checkout to purchase games.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact Information
-For any inquiries, please contact:
-- Name: dvhlong
-- Email: dvhlong@example.com
